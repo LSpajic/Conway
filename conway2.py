@@ -96,9 +96,6 @@ while running:
             except IndexError:
                 continue
             
-
-
-
     while not catching:
         for x in range(1,NUMBER_OF_FIELDS+1):
             for y in range(1,NUMBER_OF_FIELDS+1):
